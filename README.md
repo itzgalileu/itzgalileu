@@ -14,6 +14,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Galileu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Galileu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Gale-pic" height="160" style="border-radius:50px;"
   src="https://media.discordapp.net/attachments/763743304570503198/899764605717475398/ExemplaryFairFeline-max-1mb.gif?width=569&height=427"
 </div>
